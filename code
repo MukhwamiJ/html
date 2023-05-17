@@ -1,0 +1,18 @@
+htm
+<table>
+<tr>
+<th>first name</th>
+<th>last name</th>
+<th>age</th>
+</tr>
+<tr>
+<td>jane</td>
+<td>smith</td>
+<td>28<td>
+</tr>
+<tr>
+<td>samuel</td>
+<td>joy</td>
+<td>35</td>
+</tr>
+</table>
